@@ -9,3 +9,6 @@ Analyze company sales data to find insights.
 ## Key Insights
 - Top products generate most revenue
 - Sales trends over time
+
+## 🔗 Connect with Me
+https://www.linkedin.com/in/kavya-emmadi-171862368/
